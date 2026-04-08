@@ -1,0 +1,136 @@
+{
+  "code": "RZN210337",
+  "date_etablisement": "03 février 2021",
+  "date_echeance": null,
+  "date_debut_livraison": "01/01/2021",
+  "date_fin_livraison": "31/01/2021",
+  "livre_par": "Camion",
+  "num_compte": null,
+  "type_de_paiement": null,
+  "TSE": "123 016 860,00",
+  "mnt_ht_total": "560 747 600,00",
+  "tva_total": "106 542 044,00",
+  "mnt_ttc": "790 306 504,00",
+  "facture_ligne": [
+    {
+      "designation": "CHELIA TD 15 W 40",
+      "qte": "5 516,000",
+      "Unite": "Fut",
+      "prix_unitaire": "32 000,00",
+      "tva": "19%",
+      "mnt_ht": "176 512 000,00"
+    },
+    {
+      "designation": "TASSADIT A2",
+      "qte": "175,000",
+      "Unite": "Fut",
+      "prix_unitaire": "35 800,00",
+      "tva": "19%",
+      "mnt_ht": "6 265 000,00"
+    },
+    {
+      "designation": "TORBA 68",
+      "qte": "204,000",
+      "Unite": "Fut",
+      "prix_unitaire": "26 200,00",
+      "tva": "19%",
+      "mnt_ht": "5 344 800,00"
+    },
+    {
+      "designation": "NAFTILIA SUPER 20 W 50",
+      "qte": "1 672,000",
+      "Unite": "Fut",
+      "prix_unitaire": "30 400,00",
+      "tva": "19%",
+      "mnt_ht": "50 828 800,00"
+    },
+    {
+      "designation": "CHIFFA 40",
+      "qte": "6 670,000",
+      "Unite": "Fut",
+      "prix_unitaire": "29 900,00",
+      "tva": "19%",
+      "mnt_ht": "199 433 000,00"
+    },
+    {
+      "designation": "CHELIA 10 W",
+      "qte": "957,000",
+      "Unite": "Fut",
+      "prix_unitaire": "30 000,00",
+      "tva": "19%",
+      "mnt_ht": "28 710 000,00"
+    },
+    {
+      "designation": "CHELIA 50",
+      "qte": "556,000",
+      "Unite": "Fut",
+      "prix_unitaire": "30 500,00",
+      "tva": "19%",
+      "mnt_ht": "16 958 000,00"
+    },
+    {
+      "designation": "TORADA 220",
+      "qte": "280,000",
+      "Unite": "Fut",
+      "prix_unitaire": "26 000,00",
+      "tva": "19%",
+      "mnt_ht": "7 280 000,00"
+    },
+    {
+      "designation": "TORADA TC 32",
+      "qte": "100,000",
+      "Unite": "Fut",
+      "prix_unitaire": "24 000,00",
+      "tva": "19%",
+      "mnt_ht": "2 400 000,00"
+    },
+    {
+      "designation": "TISKA 68",
+      "qte": "284,000",
+      "Unite": "Fut",
+      "prix_unitaire": "24 900,00",
+      "tva": "19%",
+      "mnt_ht": "7 071 600,00"
+    },
+    {
+      "designation": "TISKA 32",
+      "qte": "556,000",
+      "Unite": "Fut",
+      "prix_unitaire": "24 900,00",
+      "tva": "19%",
+      "mnt_ht": "13 844 400,00"
+    },
+    {
+      "designation": "TISKA 46",
+      "qte": "556,000",
+      "Unite": "Fut",
+      "prix_unitaire": "24 900,00",
+      "tva": "19%",
+      "mnt_ht": "13 844 400,00"
+    },
+    {
+      "designation": "TISKA 100",
+      "qte": "284,000",
+      "Unite": "Fut",
+      "prix_unitaire": "24 900,00",
+      "tva": "19%",
+      "mnt_ht": "7 071 600,00"
+    },
+    {
+      "designation": "TISKA 150",
+      "qte": "280,000",
+      "Unite": "Fut",
+      "prix_unitaire": "26 400,00",
+      "tva": "19%",
+      "mnt_ht": "7 392 000,00"
+    },
+    {
+      "designation": "NAFTILIA VPS 15W40",
+      "qte": "556,000",
+      "Unite": "Fut",
+      "prix_unitaire": "32 000,00",
+      "tva": "19%",
+      "mnt_ht": "17 792 000,00"
+    }
+  ]
+}
