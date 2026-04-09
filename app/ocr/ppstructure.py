@@ -26,8 +26,6 @@ except Exception:
     _PPStructureV3 = None
 
 from ocr.constants import (
-    CPU_THREADS,
-    MKLDNN_CACHE_CAPACITY,
     TEXT_DET_BOX_THRESH,
     TEXT_DET_LIMIT_SIDE_LEN,
     TEXT_DET_THRESH,
@@ -77,9 +75,6 @@ def get_pipeline() -> Any:
         use_textline_orientation=True,
         use_region_detection=True,
         device="cpu",
-        enable_mkldnn=True,
-        cpu_threads=CPU_THREADS,
-        mkldnn_cache_capacity=MKLDNN_CACHE_CAPACITY,
         enable_cinn=False,
     )
     return _cached_pipeline
