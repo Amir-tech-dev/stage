@@ -8,7 +8,7 @@ It supports two AI pipelines:
 - OSS 120B pipeline: PPStructureV3 OCR -> text extraction -> Ollama (GPT-OSS) -> JSON
 - Llama 4 Scout pipeline: image(s) -> Groq vision model -> JSON
 
-NB: you can execute this program in your machine , tho since the json schema is based on NAFTAL invoices key informations , i included a demo directory containing a demo invoice to test the app .
+NB: you can execute this program in your machine , tho since the json schema is based on NAFTAL invoices key informations i included a demo directory containing a demo invoice similar to the real invoices used to test the app .
 
 ## Features
 
