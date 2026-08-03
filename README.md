@@ -1,6 +1,8 @@
 # Naftal Invoice OCR
 
-Naftal Invoice OCR is a Streamlit application that extracts structured invoice data from PDF or image files.
+Naftal Invoice OCR is a project I worked on during my internship at NAFTAL Headquarters under the mentorship of developers from the Direction Centrale Systèmes d'Information (DCSI), Direction Solutions Métiers. As a result, the design and implementation decisions were made to comply with the constraints and requirements of the internship environment.
+
+It is a Streamlit application that extracts structured invoice data from PDF or image files.
 
 It supports two AI pipelines:
 - OSS 120B pipeline: PPStructureV3 OCR -> text extraction -> Ollama (GPT-OSS) -> JSON
