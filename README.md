@@ -1,6 +1,6 @@
 # Naftal Invoice OCR
 
-Naftal Invoice OCR is a project I worked on during my internship at NAFTAL Headquarters - subsidiary of SONATRACH, premier Africa’s leading oil and gas group - under the mentorship of developers from the Direction Centrale Systèmes d'Information (DCSI), Direction Solutions Métiers. As a result, the design and implementation decisions were made to comply with the constraints and requirements of the internship environment.
+Naftal Invoice OCR is a project I worked on during my internship at NAFTAL Headquarters - subsidiary of SONATRACH, Africa’s leading oil and gas group - under the mentorship of developers from the Direction Centrale Systèmes d'Information (DCSI), Direction Solutions Métiers. As a result, the design and implementation decisions were made to comply with the constraints and requirements of the internship environment.
 
 It is a Streamlit application that extracts structured invoice data from PDF or image files.
 
